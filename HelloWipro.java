@@ -1,4 +1,4 @@
-public class HelloWipro{
+public class HelloWipro {
 
 public static void main (String args[]){
 
